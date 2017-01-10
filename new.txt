@@ -4,4 +4,4 @@ how are you branching sector..
 
 branching the new sector..
 
-adding one more line from paul branch from local repository to master.
+Makes another changes from remote master
